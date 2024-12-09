@@ -1,2 +1,5 @@
-# Docker_Container_3rdParty_Example
-Code Scanning on dockerfile container
+# testing-container-security
+
+A `Dockerfile` using a really old and vulnerable base image, to test out container security tools.
+
+I chose it based on [Security Issues in Popular Containers](https://containers.goodwith.tech/).
